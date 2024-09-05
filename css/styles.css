@@ -264,7 +264,6 @@ footer{
     margin-left: 4rem;
     margin-right: 4rem;
     display: grid;
-    padding-bottom: rem;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 2fr 2fr;
 
